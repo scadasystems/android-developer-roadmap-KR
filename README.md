@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://github.com/kamranahmedse/developer-roadmap">
+  <a href="https://developer.android.com/jetpack">
     <img src="https://user-images.githubusercontent.com/38491289/65575220-49f8fe80-dfaa-11e9-96f8-785047a55328.png" alt="Developer Roadmap" width="420" height="100">
   </a>
   <br>
