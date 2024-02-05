@@ -4,7 +4,7 @@
   </a>
   <br>
   <br>
-  <h2 align="center">안드로이드 개발자 로드맵 2020 🇰🇷</h2>
+  <h2 align="center">안드로이드 개발자 로드맵 🇰🇷</h2>
 </p>
 
 ### Original
